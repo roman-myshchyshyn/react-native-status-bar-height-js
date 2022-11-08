@@ -1,0 +1,38 @@
+{
+  "name": "react-native-status-bar-height-js",
+  "version": "1.0.0",
+  "description": "Get status bar height for React Native App",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman-myshchyshyn/react-native-status-bar-height-js"
+  },
+  "keywords": [
+    "react",
+    "reactnative",
+    "react-native",
+    "statusbar",
+    "status-bar",
+    "status-bar-height"
+  ],
+  "author": "roman_tino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roman-myshchyshyn/react-native-status-bar-height-js/issues"
+  },
+  "homepage": "https://github.com/roman-myshchyshyn/react-native-status-bar-height-js#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@types/react-native": "^0.70.6",
+    "react-native-device-info": "^10.3.0"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "files": ["lib/**/*"]
+}
