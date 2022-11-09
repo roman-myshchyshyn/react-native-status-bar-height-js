@@ -14,7 +14,7 @@ $ npm install --save react-native-status-bar-height-js
 $ yarn add react-native-status-bar-height-js
 ```
 
-## Usage getStatusBarHeight(skipAndroid: boolean = false)
+## Usage
 
 ```js
 import { STATUS_BAR_HEIGHT } from 'react-native-status-bar-height-js';
