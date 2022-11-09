@@ -9,9 +9,9 @@
 ## Install
 
 ```bash
-$ npm install --save react-native-status-bar-height
+$ npm install --save react-native-status-bar-height-js
 # OR
-$ yarn add react-native-status-bar-height
+$ yarn add react-native-status-bar-height-js
 ```
 
 ## Usage getStatusBarHeight(skipAndroid: boolean = false)
