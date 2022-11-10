@@ -20,7 +20,7 @@ $ cd ios && pod install
 ## Usage
 
 ```js
-import { STATUS_BAR_HEIGHT } from 'react-native-status-bar-height-js';
+import STATUS_BAR_HEIGHT from 'react-native-status-bar-height-js';
 ```
 
 ## License
