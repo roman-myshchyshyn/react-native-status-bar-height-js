@@ -1,6 +1,6 @@
 {
   "name": "react-native-status-bar-height-js",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Get status bar height for React Native App",
   "main": "index.js",
   "scripts": {
