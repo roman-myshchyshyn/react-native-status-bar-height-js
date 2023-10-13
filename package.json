@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@types/react-native": "^0.70.6",
-    "react-native-device-info": "^10.3.0"
+    "react-native-device-info": "^10.11.0"
   },
   "peerDependencies": {
     "react-native": "*"
