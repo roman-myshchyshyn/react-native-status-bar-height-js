@@ -4,6 +4,10 @@ import { getModel } from 'react-native-device-info';
 const IPHONE_WITH_BUTTON_STATUSBAR_HEIGHT = 20;
 
 const IPHONE_DEVICES_MAP: Record<string, number> = {
+  'iPhone 15 Pro Max': [430, 932, 54],
+  'iPhone 15 Pro': [393, 852, 54],
+  'iPhone 15 Plus': [430, 932, 54],
+  'iPhone 15': [393, 852, 54],
   'iPhone 14 Pro Max': 54,
   'iPhone 14 Pro': 54,
   'iPhone 14 Plus': 47,
